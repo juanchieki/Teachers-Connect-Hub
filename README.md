@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  - [Teachers Connect Hub](https://github.com/JUANCHIEKI/Teacher-s-Connect-hub)
+  - [Teachers Connect Hub](https://github.com/juanchieki/Teacher-s-Connect-hub)
   
-  - [Hello world](https://github.com/JUANCHIEKI/Teacher-s-Connect-hub) 
+  - [Hello world](https://github.com/juanchieki/Teacher-s-Connect-hub) 
 
 <h2>Certifications</h2>
 
@@ -13,7 +13,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Teachers Connect Hub ](https://github.com/JUANCHIEKI/Teacher-s-Connect-hub)
+- [Tutorial Teachers Connect Hub ](https://github.com/juanchieki/Teacher-s-Connect-hub)
 
 <h2> 🤳 Connect with me:</h2>
 
